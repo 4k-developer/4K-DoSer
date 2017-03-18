@@ -19,9 +19,10 @@ A tool for preforming DoS attacks (Work in progress)
 
 ## Android Version?
 + Yes however it will probably crash after a minute or so
-+ Doesn't Root
 + Use a terminal emulator or ADB Shell
 + Not much development at this time
+### Needs Root?
+The script needs cURL so yes (unless you can get curl on android without root)
 
 ## How do I know if it worked?
 The website (or certain sections of it) will return a 500 error
