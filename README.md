@@ -14,12 +14,14 @@ A tool for preforming DoS attacks (Work in progress)
 ## What do I need to install?
 + cURL
 + Good internet connection
-+ Linux
++ Linux or Android (Must have a shell)
 + A brain and a beating heart
 
 ## Android Version?
 + Yes however it will probably crash after a minute or so
-+ No Root
++ Doesn't Root
++ Use a terminal emulator or ADB Shell
++ Not much development at this time
 
 ## How do I know if it worked?
 The website (or certain sections of it) will return a 500 error
