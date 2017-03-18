@@ -2,7 +2,7 @@
 A tool for preforming DoS attacks (Work in progress)
 
 ## How to Use
-1) "./4K-DoSer [url]" or sh "4K-DoSerM [url]" for Android
+1) "./4K-DoSer [url]" or "sh 4K-DoSerM [url]" for Android
 2) CTRL + C to kill (May need to pkill curl afterwards)
 
 ## How to install
