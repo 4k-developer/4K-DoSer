@@ -8,4 +8,5 @@ A tool for preforming DoS attacks (Work in progress)
 ## How to install
 1) Clone via git or zip download
 2) Make sure "4K-DoSer" and "payload.zip" are in the same directory
-3) Done
+3) Make "4K-DoSer" executable
+4) Done
