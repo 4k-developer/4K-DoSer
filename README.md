@@ -25,7 +25,7 @@ A tool for preforming DoS attacks (Work in progress)
 The script needs cURL so yes (unless you can get curl on android without root)
 
 ## How do I know if it worked?
-The website (or certain sections of it) will return a 500 error
+The website (or certain sections of it) will return some sort of error
 
 ## Why can't I DoS anything?
 + This is is still a work in progress
