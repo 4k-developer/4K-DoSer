@@ -18,9 +18,9 @@ A tool for preforming DoS attacks (Work in progress)
 + A brain and a beating heart
 
 ## Android Version?
-+ Yes however it will probably crash after a minute or so
-+ Use a terminal emulator or ADB Shell
-+ Not much development at this time
++ Yes
++ Use a terminal emulator (crashes after a minute or so) or ADB Shell (
++ No much development at this time
 ### Needs Root?
 The script needs cURL so yes (unless you can get curl on android without root)
 
@@ -29,7 +29,7 @@ The website (or certain sections of it) will return some sort of error
 
 ## Why can't I DoS anything?
 + This is is still a work in progress
-+ Most likely won't work on websites that have good DDoS/DoS protection
++ Most likely won't work on websites that have decent to good DDoS/DoS protection
 
 ## Don't be stupid
-In the event that is works, do not use it wit hmalinten. I take no responsiblity for your actions or any damages caused by this tool. This is for educational or pentesting/stresstesting purposes. 
+In the event that is works, do not use it with malintent. I take no responsiblity for your actions or any damages caused by this tool. This is for educational or pentesting/stresstesting purposes. 
