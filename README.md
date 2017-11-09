@@ -14,8 +14,7 @@ A tool for preforming DoS attacks (Work in progress)
 ## What do I need to install?
 + cURL
 + Good internet connection
-+ Linux or Android (Must have a shell)
-+ A brain and a beating heart
++ Linux Environment or Android (Must have a shell)
 
 ## Android Version?
 + Yes
@@ -25,11 +24,12 @@ A tool for preforming DoS attacks (Work in progress)
 The script needs cURL so yes (unless you can get curl on android without root)
 
 ## How do I know if it worked?
-The website (or certain sections of it) will return some sort of error
+The website (or certain sections of it) will return some sort of error (Usually Error 500)
 
 ## Why can't I DoS anything?
 + This is is still a work in progress
 + Most likely won't work any websites
++ Try a Wordpress or Drupal powered site
 
 ## Don't be stupid
 In the event that is works, do not use it with malintent. I take no responsiblity for your actions or any damages caused by this tool. This is for educational and stresstesting purposes. 
